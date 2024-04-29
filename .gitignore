@@ -1,1 +1,7 @@
 btm_internal/
+.env
+TinyStories/
+.vscode/settings.json
+*.pyc
+*.so
+*.gz
